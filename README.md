@@ -48,6 +48,8 @@ pip install uv
 2. Create a new app
 3. Under **Redirect URIs**, add: `http://127.0.0.1:9090`
 4. Copy your **Client ID** and **Client Secret**
+![Uploading image.png…]()
+
 
 ---
 
