@@ -50,11 +50,11 @@ pip install uv
 4. Copy your **Client ID** and **Client Secret**
 
 <p align="center">
-  <img src="assets/client-info.png" width="850">
+  <img src="assets/redirect-url.png" width="850">
 </p>
 
 <p align="center">
-  <img src="assets/redirect-url.png" width="850">
+  <img src="assets/client-info.png" width="850">
 </p>
 
 ---
