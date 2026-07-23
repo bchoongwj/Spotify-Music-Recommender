@@ -1,0 +1,13 @@
+[project]
+name = "spotify-song-recommender"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain-core>=1.5.0",
+    "langchain-ollama>=1.1.0",
+    "spotipy>=2.26.0",
+    "streamlit>=1.60.0",
+]
