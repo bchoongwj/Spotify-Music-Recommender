@@ -48,8 +48,14 @@ pip install uv
 2. Create a new app
 3. Under **Redirect URIs**, add: `http://127.0.0.1:9090`
 4. Copy your **Client ID** and **Client Secret**
-![Uploading image.png…]()
 
+<p align="center">
+  <img src="assets/client-info.png" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/redirect-url.png" width="850">
+</p>
 
 ---
 
@@ -68,6 +74,10 @@ SPOTIPY_CLIENT_ID=your_client_id
 SPOTIPY_CLIENT_SECRET=your_client_secret
 SPOTIPY_REDIRECT_URI=http://127.0.0.1:9090
 ```
+
+<p align="center">
+  <img src="assets/env-file.png" width="850">
+</p>
 
 ### Install dependencies
 ```bash
