@@ -107,7 +107,18 @@ The application will open automatically in your browser.
 
 ## Screenshots
 
-*Coming soon.*
+<p align="center">
+  <img src="assets/first-screenshot.png" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/second-screenshot.png" width="850">
+</p>
+
+<p align="center">
+  <img src="assets/third-screenshot.png" width="850">
+</p>
+
 
 ---
 
